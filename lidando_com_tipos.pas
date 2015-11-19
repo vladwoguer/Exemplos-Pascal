@@ -1,4 +1,4 @@
-{Autor: Vladwoguer Bezerra, Nov 2015}
+{Autor: Vladwoguer Bezerra, 19 Novembro 2015}
 program lidando_com_tipos;
 uses
         crt;
