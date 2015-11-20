@@ -1,3 +1,4 @@
+{Vladwoguer Bezerra, Novembro 2015}
 program operadores;
 uses
         crt;
