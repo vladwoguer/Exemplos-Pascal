@@ -41,11 +41,12 @@ type
 var
         contact : Contato;
 
-begin
+begin   contact.init;
         contact.setnome('Jose Silva');
         contact.settelefone('8333221234');
 
         writeln(contact.getnome());
         writeln(contact.gettelefone());
+        contact.done;
         readkey;
 end.
