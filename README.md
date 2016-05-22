@@ -3,3 +3,5 @@ Pascal é uma linguagem de programção de propósito geral, desenvolvida por Niklau
 Nessa pasta deixo alguns exemplos que podem ser uteis pra quem está aprendendo essa linguagem ou deseja saber mais sobre programação estruturada.
 
 Esses exemplos são compativeis com o Free Pascal IDE
+
+Vladwoguer Bezerra 2015
